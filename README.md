@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shreyank!
 
-<!--
-**shreyankjella/shreyankjella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in economics, statistics,
+and using programming to solve practical problems.
 
-Here are some ideas to get you started:
+## Interests
+- Python programming
+- Economics and business analysis
+- Algorithms and problem-solving
+- Data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+I'm building a collection of programming projects
+and data analysis work as I continue learning.
+
+## Currently Learning
+- Python
+- Git and GitHub
+- Data analysis
